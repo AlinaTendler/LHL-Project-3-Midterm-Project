@@ -35,8 +35,7 @@ This midterm project uses a comprehensive property market dataset to predict pro
 
 ## Future Work
 
- - Deployment: Develop a web-based dashboard using Flask or Streamlit to provide real-time property price predictions.
  - Enhanced Feature Engineering: Integrate geospatial features and external data (e.g., neighborhood statistics) to further improve model accuracy.
  - Advanced Modeling: Experiment with additional ensemble techniques or neural networks and incorporate interpretability tools such as SHAP or LIME to explain model decisions.
- - Continuous Improvement: Refine the data preprocessing and feature selection processes based on feedback from domain experts and further data exploration.
+
 
